@@ -1,4 +1,5 @@
 # Pythonspider,一个简单的python爬虫
+//Good men
 * 娱乐随手写的，代码不太严谨，仅仅实现功能
 * 原生python+BeautifulSoup4
 * python3.4版本
